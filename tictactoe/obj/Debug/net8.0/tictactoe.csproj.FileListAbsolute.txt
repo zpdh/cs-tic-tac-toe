@@ -1,0 +1,15 @@
+C:\Code\RecipeBook\tictactoe\tictactoe\bin\Debug\net8.0\tictactoe.exe
+C:\Code\RecipeBook\tictactoe\tictactoe\bin\Debug\net8.0\tictactoe.deps.json
+C:\Code\RecipeBook\tictactoe\tictactoe\bin\Debug\net8.0\tictactoe.runtimeconfig.json
+C:\Code\RecipeBook\tictactoe\tictactoe\bin\Debug\net8.0\tictactoe.dll
+C:\Code\RecipeBook\tictactoe\tictactoe\bin\Debug\net8.0\tictactoe.pdb
+C:\Code\RecipeBook\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\RecipeBook\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.AssemblyInfoInputs.cache
+C:\Code\RecipeBook\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.AssemblyInfo.cs
+C:\Code\RecipeBook\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.csproj.CoreCompileInputs.cache
+C:\Code\RecipeBook\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.sourcelink.json
+C:\Code\RecipeBook\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.dll
+C:\Code\RecipeBook\tictactoe\tictactoe\obj\Debug\net8.0\refint\tictactoe.dll
+C:\Code\RecipeBook\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.pdb
+C:\Code\RecipeBook\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.genruntimeconfig.cache
+C:\Code\RecipeBook\tictactoe\tictactoe\obj\Debug\net8.0\ref\tictactoe.dll
